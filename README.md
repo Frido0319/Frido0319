@@ -23,11 +23,3 @@
 |---|---|
 | [smart-course-platform-public](https://github.com/Frido0319/smart-course-platform-public) | 课程平台正式版(Next.js + Supabase + 激活码) |
 
-## 🧑🚀 个人作品
-| 仓库 | 说明 |
-|---|---|
-| [InternalBeyond](https://github.com/Frido0319/InternalBeyond) | 单文件离线个人网站「边界之外」 |
-
----
-
-*另有若干私密项目(竞赛、AI 系统、课程平台旧版)未在此列出。*
