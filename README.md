@@ -22,4 +22,5 @@
 | 仓库 | 说明 |
 |---|---|
 | [smart-course-platform-public](https://github.com/Frido0319/smart-course-platform-public) | 课程平台正式版(Next.js + Supabase + 激活码) |
+| [explainer-video-builder-skill](https://github.com/Frido0319/explainer-video-builder-skill) | 讲解视频制作 skill：把技术方案/项目成果做成带中文配音+中文字幕的 1080p 视频（白底学术卡+PPT原图+SVG架构图+edge-tts+ffmpeg 合成） |
 
